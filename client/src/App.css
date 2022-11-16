@@ -1,0 +1,49 @@
+*,
+*:after,
+*:before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  outline: none;
+  color: white;
+  height: 100vh;
+}
+
+
+body {
+  font-family: 'Lobster', cursive;
+  box-sizing: border-box;
+  color: black;
+  font-size: 16px;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+
+a {
+  text-decoration: none;
+  outline: none;
+  color: white;
+}
+
+
+img {
+  outline: none;
+}

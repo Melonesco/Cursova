@@ -1,0 +1,5 @@
+.schedule {
+    height: 80vh;
+    overflow: auto;
+    background-color: rgba(100,149,237, 0.2);
+}
